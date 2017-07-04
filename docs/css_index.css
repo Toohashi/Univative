@@ -15,21 +15,22 @@
 }
 
 .button-style {
-    width: 80%;
-    height: auto;
-    
     font-family: "helvetica Neue";
     font-size: 5vw;
     text-align: center;
     text-decoration: none;
     color: white;
-    margin: 10% 0 10% 7.5%;
-    padding: 0.5em;
     border-width: 2px;
     border-color: white;
     box-shadow: 0 3px 10px gray;
     
-    display: block;
+    width: auto;
+    height: auto;
+    padding: 0.5em 2em 0.5em 2em;
+    margin: 10% 0;
+    
+    display: flex;
+    justify-content: center;
 }
 
 .term-frame {
