@@ -9,4 +9,4 @@ This demo is an Alpha-version Web App for the competition, no real function will
 Author: Oliver Wang from Macquarie University, 
 Please feel free to contact me if you have any questions on it.
 
-The author has got the authorisation from the sponsor of this program. If you have any questions about the copyright and other legal issues, please contact the sponsor -- Lebanese Muslim Association.
+The author has got the authorisation from the sponsor of this program to use materials like icons and pics. If you have any questions about the copyright and other legal issues, please contact the sponsor -- Lebanese Muslim Association.
