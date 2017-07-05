@@ -22,6 +22,7 @@
     color: white;
     border-width: 2px;
     border-color: white;
+    border-radius: 10px;
     box-shadow: 0 3px 10px gray;
     
     width: auto;
