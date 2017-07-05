@@ -55,6 +55,9 @@ h1 {
     margin-top: 5%;
     
     box-shadow: 0 3px 10px gray;
+    
+    border-bottom-left-radius: 17.5px;
+    border-bottom-right-radius: 17.5px;
 }
 
 .manual-input {
@@ -63,7 +66,7 @@ h1 {
     border: 2px solid green;
     
     padding-top: 5%;
-    border-radius: 10px;
+    border-radius: 20px;
     
     margin-top: 10%;
 }
