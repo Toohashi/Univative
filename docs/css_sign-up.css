@@ -6,7 +6,7 @@ h1 {
     width: 100%;
     height: auto;
     
-    margin-top: 25%;
+    margin-top: 5%;
     
     display: inline-block;
 }
@@ -20,7 +20,7 @@ h1 {
 }
 
 .sign-up-email {
-    width: 74.5vw;
+    width: 72.5vw;
     height: auto;
     border-bottom-color: green;
     border-bottom-width: 2px;
@@ -52,7 +52,18 @@ h1 {
     display: flex;
     justify-content: center;
     
-    margin-top: 20%;
+    margin-top: 5%;
     
     box-shadow: 0 3px 10px gray;
+}
+
+.manual-input {
+    width: auto;
+    height: auto;
+    border: 2px solid green;
+    
+    padding-top: 5%;
+    border-radius: 10px;
+    
+    margin-top: 10%;
 }
