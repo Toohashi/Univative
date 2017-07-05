@@ -52,6 +52,8 @@ h1 {
     display: flex;
     justify-content: center;
     
+    margin-top: 5%;
+    
     box-shadow: 0 3px 10px gray;
     
     border-bottom-left-radius: 17.5px;
@@ -63,6 +65,7 @@ h1 {
     height: auto;
     border: 2px solid green;
     
+    padding-top: 5%;
     border-radius: 20px;
     
     margin-top: 10%;
